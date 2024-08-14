@@ -1,0 +1,9 @@
+mysql> git status
+    -> git add 1116520167_hw0.html 1116520167_hw0.png
+    -> git commit -m "1116520167’'s commit"
+    -> QUIT
+    -> QUIT;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'git status
+git add 1116520167_hw0.html 1116520167_hw0.png
+git commit -m "1116520' at line 1
+mysql> QUIT;
